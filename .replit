@@ -7,3 +7,6 @@ expertMode = true
 [[ports]]
 localPort = 5000
 externalPort = 80
+
+[nix]
+packages = ["tree", "vimHugeX", "wget"]
